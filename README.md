@@ -13,7 +13,7 @@ As a full-stack web developer with a strong focus on front-end development, I th
 - 👨‍💻 All of my projects are available at [https://github.com/NowshinBushra?tab=repositories](https://github.com/NowshinBushra?tab=repositories)
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development, C, C++, Python 
-- 📫 How to reach me: nowshin.bushra399@gmail.com  
+- 📫 Reach me through -> nowshin.bushra399@gmail.com  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NowshinBushra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nowshin-islam-bushra-864854200/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nawshiin.athiya/)  
