@@ -15,12 +15,16 @@
 - 👨‍💻 Here's my portfolio
 <hr/>
 
+<br/>
 
+<hr/>
 ## 🧠 My Focus Areas
 - Web Development
 - AI/ML Research
 - Open Source Contributions
+<br/>
 
+<hr/>
 ## 🔥 Languages & Frameworks & Tools 🔥
 
 <p align="center">
@@ -43,6 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
+<br/>
 
 ## 📊 GitHub Stats
 <p align="center">
