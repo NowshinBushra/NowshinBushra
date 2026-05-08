@@ -17,14 +17,12 @@
 
 <br/>
 
-<hr/>
 ## 🧠 My Focus Areas
 - Web Development
 - AI/ML Research
 - Open Source Contributions
 <br/>
 
-<hr/>
 ## 🔥 Languages & Frameworks & Tools 🔥
 
 <p align="center">
