@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Nowshin%20Islam%20Bushra&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Software%20%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<div align="center">
+  <strong>Full Stack Developer 👋 | Expert in JavaScript, Python, Django, React.js, Next.js, Redux, Node.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Neural Networks and Deep Learning Enthusiast 💡</strong>
+</div>
+<br/>
+
 <hr/>
 <img align="right" height="250" width="365" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner"  />
 
@@ -15,13 +20,6 @@
 - Web Development
 - AI/ML Research
 - Open Source Contributions
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NowshinBushra&theme=dark&hide_border=true&cache_seconds=86400" alt="NowshinBushra's GitHub Streak" width="49%" />
-</p>
-
 
 ## 🔥 Languages & Frameworks & Tools 🔥
 
@@ -44,8 +42,13 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NowshinBushra&theme=dark&hide_border=true&cache_seconds=86400" alt="NowshinBushra's GitHub Streak" width="49%" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/NowshinBushra">
