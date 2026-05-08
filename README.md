@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&text=Nowshin%20Islam%20Bushra&fontSize=48&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Junior%20Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nowshinbushra/nowshinbushra/main/banner.png" />
+</p>
 <div align="center">
   <strong>Full Stack Developer 👋 | Expert in JavaScript, Python, Django, React.js, Next.js, Redux, Node.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Neural Networks and Deep Learning Enthusiast 💡</strong>
 </div>
