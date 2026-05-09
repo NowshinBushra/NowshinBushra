@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on Blood Bank Management Project.
 - 💻   I love exploring new technologies and building cool stuff.
 - 📫Reach me out nowshin.bushra399@gmail.com
-- 👨‍💻 Here's my portfolio
+- 👨‍💻 Here's my portfolio [nowshin-bushra-pt.netlify.app](https://nowshin-bushra-pt.netlify.app/)
 <hr/>
 
 <br/>
